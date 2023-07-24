@@ -1,0 +1,39 @@
+
+@font-face{
+    font-family: "f1";
+    src: url('fonts/teddy-bear.ttf');
+}
+
+h1{
+    color: rgb(255, 30, 0);
+    font-family: 'f1', sans-serif;
+}
+h2{
+    color: rgb(255, 238, 0);
+}
+a{
+    color: green;
+}
+a:hover{
+    color: blueviolet;
+}
+
+body{
+    background-color: aqua;
+}
+img{
+    width: 300px;
+    border: 3px solid black;
+    margin-left: 40px;
+}
+.big_text{
+    font-size: 1.5rem;
+}
+ul{
+    list-style-type: square;
+}
+#wrapper{
+    width: 600px; 
+    margin: 0 auto;
+    background-color: burlywood;
+}
